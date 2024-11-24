@@ -18,9 +18,9 @@ Events:
 • ItemListener untuk JComboBox kategori kontak
 
 Variasi:
-• Tambahkan fitur pencarian kontak berdasarkan nama atau nomor
+• Menambahkan fitur pencarian kontak berdasarkan nama atau nomor
 telepon, lalu tampilkan hasilnya di JTable
-• Buat validasi input untuk memastikan nomor telepon yang dimasukkan
+• Membuat validasi input untuk memastikan nomor telepon yang dimasukkan
 hanya berisi angka dan memiliki panjang yang sesuai
-• Sediakan fitur untuk mengekspor daftar kontak ke file CSV dan
+• Menyediakan fitur untuk mengekspor daftar kontak ke file CSV dan
 mengimpor kontak dari file CSV ke database.
